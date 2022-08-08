@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-07T14:35:09 IST" name="Default suite" finished-at="2022-08-07T14:37:00 IST" duration-ms="111246">
+    <groups>
+    </groups>
+    <test started-at="2022-08-07T14:35:09 IST" name="Default test" finished-at="2022-08-07T14:37:00 IST" duration-ms="111246">
+      <class name="com.Automation.base.Testng_Automation_runner">
+        <test-method signature="browser_Launch()[pri:-19, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:35:09 IST" name="browser_Launch" finished-at="2022-08-07T14:35:24 IST" duration-ms="15436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_Launch -->
+        <test-method signature="object_Manager()[pri:-18, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:35:24 IST" name="object_Manager" finished-at="2022-08-07T14:35:25 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_Manager -->
+        <test-method signature="lanuch_URL()[pri:-17, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:35:25 IST" name="lanuch_URL" finished-at="2022-08-07T14:35:43 IST" duration-ms="18070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanuch_URL -->
+        <test-method signature="login_process()[pri:-16, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:35:43 IST" name="login_process" finished-at="2022-08-07T14:36:01 IST" duration-ms="17821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_process -->
+        <test-method signature="casual_Dress()[pri:-15, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:36:01 IST" name="casual_Dress" finished-at="2022-08-07T14:36:16 IST" duration-ms="15618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- casual_Dress -->
+        <test-method signature="evening_Dress()[pri:-14, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:36:16 IST" name="evening_Dress" finished-at="2022-08-07T14:36:33 IST" duration-ms="16576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- evening_Dress -->
+        <test-method signature="checkout_Process()[pri:-5, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:36:33 IST" name="checkout_Process" finished-at="2022-08-07T14:36:48 IST" duration-ms="14795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout_Process -->
+        <test-method signature="confirm_payment()[pri:1, instance:com.Automation.base.Testng_Automation_runner@4d0d9fe7]" started-at="2022-08-07T14:36:48 IST" name="confirm_payment" finished-at="2022-08-07T14:37:00 IST" duration-ms="12535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirm_payment -->
+      </class> <!-- com.Automation.base.Testng_Automation_runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
