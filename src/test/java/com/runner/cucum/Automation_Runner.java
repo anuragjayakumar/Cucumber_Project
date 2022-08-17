@@ -18,9 +18,10 @@ import cucumber.api.junit.Cucumber;
                  monochrome = true,
                  dryRun = false,
                  strict = true,
-                 plugin = {
-                		 
-                 }
+                 plugin = { "pretty", "html:target/cucumber-reports" }
+                 
+                 
+                
                  
                  
                  

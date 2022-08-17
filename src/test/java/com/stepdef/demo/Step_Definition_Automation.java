@@ -14,7 +14,8 @@ public class Step_Definition_Automation extends Utility_files {
 	
 	@Given("^user Launch The Application$")
 	public void user_Launch_The_Application() throws Throwable {
-		get_url("http://automationpractice.com/index.php");
+		String Url = File_Read_Manager.getInstanceFRM().getInstantTestData().get_Url();
+		get_url(Url);
 		Thread.sleep(2000);
 		click(manager.getHome().getSign_in_button());
 	}
